@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okkesemin
-- 👀 I’m interested in software architecture
+- 👀 I’m interested in Financial Technologies like Banking Platforms, FinTechs and DeFi systems.
 - 🌱 I’m currently learning DeFi
 - 💞️ I’m looking to collaborate on DeFi
 - 📫 How to reach me https://www.linkedin.com/in/okkes-emin-balcicek/
